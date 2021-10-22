@@ -1,1 +1,4 @@
-This section contains the code for calcualting free enrgy surfaces from MD simulation trajectories.
+This section contains the folowing
+  **gesnFES.py** --> Python code for calcualting free enrgy surfaces from MD simulation trajectories 
+  
+  
